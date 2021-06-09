@@ -115,7 +115,6 @@
             android:backgroundTint="#00F521"
             android:text="Entrar"
             android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="@+id/edtTextoBotoes"
             app:layout_constraintTop_toBottomOf="@+id/edtTextoBotoes"
             app:layout_constraintVertical_bias="1.0" />
@@ -130,7 +129,6 @@
             android:backgroundTint="#D60C00"
             android:text="Sair"
             android:textStyle="bold"
-            app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="@+id/edtTextoBotoes"
             app:layout_constraintHorizontal_bias="0.968"
             app:layout_constraintStart_toEndOf="@+id/btnEntrar"
